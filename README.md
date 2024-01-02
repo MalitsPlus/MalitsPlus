@@ -2,6 +2,6 @@
 
 ✉️ `hello [shift + 2] vbb.im`
 
-🉑 Acceptable Languages: `zh, ja;q=0.9, en;q=0.1`
+🉑 Acceptable Languages: `[zh, ja, en]`
 
-💕 Avatar: `Kawasaki Sakura` from [IDOLY PRIDE](https://idolypride.jp/) / [Prompt Data](AvatarPrompt.txt)
+💕 Avatar: [`Kawasaki Sakura`](https://idolypride.jp/character/sakura-kawasaki/) / [Prompt Data](AvatarPrompt.txt)
