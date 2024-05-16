@@ -1,4 +1,4 @@
-🧑‍💻Kimowota / 🧑‍💼Idol Manager & Hasunosora no koto sukisuki club no mina-san / 🐛Parasite
+🧑‍💻Kimowota / 🧑‍💼Idol Manager & Producer & Hasunosora no koto sukisuki club no mina-san / 🐛Parasite
 
 ✉️ `hello [shift + 2] vibbit.me`
 
